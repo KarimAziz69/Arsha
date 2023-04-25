@@ -1,11 +1,2 @@
-[[Ashra Project]]
-
-
-
-============== Nav bar ==============
-Active color = "#47b2e4"
-Hover color = "#47b2e4"
-fixed position
-
-============== Main components ==============
-Button
+Arsha bootstrap template
+<a href="https://karimaziz69.github.io/Arsha/">Live preview</a>
